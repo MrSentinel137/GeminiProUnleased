@@ -24,14 +24,14 @@ cd GeminiProUnleashed
 ```
 
 2. **Install Dependencies:**
-```bash
-  pip install -r requirements.txt
-  ```
-   or
-  
-  ```bash
-  pip3 install -r requirements.txt
-  ```
+    ```bash
+    pip install -r requirements.txt
+    ```
+     OR
+    
+    ```bash
+    pip3 install -r requirements.txt
+    ```
 
 3. **Run the Code:**
  ```bash
