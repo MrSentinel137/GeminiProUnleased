@@ -19,7 +19,7 @@ Welcome to the GitHub repository for "Gemini Pro Unleashed"! 🌟 In this projec
 ## Get Started:
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/GeminiProUnleashed.git
+git clone https://github.com/MrSentinel137/GeminiProUnleased.git
 cd GeminiProUnleashed
 ```
 
