@@ -1,3 +1,5 @@
+#Author - MrSentinel
+
 import streamlit as st 
 import google.generativeai as genai 
 import google.ai.generativelanguage as glm 
