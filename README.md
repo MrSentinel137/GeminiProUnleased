@@ -15,7 +15,6 @@ Welcome to the GitHub repository for "Gemini Pro Unleashed"! 🌟 In this projec
 ### 3. Seamless Integration:
 - Learn how to seamlessly integrate Gemini Pro's Vision Model into your chat bot project.
 - Achieve a harmonious blend of conversational prowess and visual brilliance.
-- Gain hands-on experience in coding, creating a futuristic AI application that both chats and sees.
 
 ## Get Started:
 1. **Clone the Repository:**
@@ -24,7 +23,7 @@ git clone https://github.com/yourusername/GeminiProUnleashed.git
 cd GeminiProUnleashed
 ```
 
-**Install Dependencies:**
+2. **Install Dependencies:**
 ```bash
   pip install -r requirements.txt
   ```
@@ -34,7 +33,7 @@ cd GeminiProUnleashed
   pip3 install -r requirements.txt
   ```
 
-**Run the Code:**
+3. **Run the Code:**
  ```bash
- streamlit run Palm.py
+ streamlit run Gemini.py
 ```
